@@ -112,6 +112,11 @@ class HalamanUtama extends StatelessWidget {
         'icon': Icons.phone_in_talk,
         'color': Colors.green,
       },
+      {
+        'title': 'Dokter Siaga',
+        'icon': Icons.phone_in_talk,
+        'color': const Color.fromARGB(255, 235, 194, 28),
+      },
     ];
 
     return Column(
